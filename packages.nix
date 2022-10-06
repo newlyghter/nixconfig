@@ -32,6 +32,7 @@
     wayland
     swaylock
     swayidle
+    waybar
 
     # programming
     # rustup
